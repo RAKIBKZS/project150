@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.log
+*.ilk
+
+# SFML and other libraries
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup / temporary files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
