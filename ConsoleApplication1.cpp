@@ -1,5 +1,4 @@
-// SFML Tic Tac Toe with Colors, Mouse Support, and AI
-// Make sure to link SFML: graphics, window, system
+
 #include <SFML/Graphics.hpp>
 #include <vector>
 #include <ctime>
